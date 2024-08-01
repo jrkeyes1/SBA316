@@ -1,7 +1,7 @@
 Contact Form Application
 
- Description
-This is a simple contact form created as part of a project to demonstrate proficiency with DOM and BOM properties, methods, and techniques. The application allows users to submit their contact details, which are then displayed on the page.
+Description
+This is a simple contact form created to demonstrate proficiency with DOM and BOM properties, methods, and techniques. The application allows users to submit their contact details, which are then displayed on the page.
 
 
 
